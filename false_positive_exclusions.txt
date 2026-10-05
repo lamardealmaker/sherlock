@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
-Carrd
 Championat
 Chatujme.cz
 Codolio
@@ -20,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -34,7 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -42,7 +41,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
