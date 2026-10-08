@@ -7,7 +7,6 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -20,11 +19,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -49,5 +48,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
