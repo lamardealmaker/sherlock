@@ -1,15 +1,13 @@
 7Cups
-APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -41,6 +39,7 @@ Trakt
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -54,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
