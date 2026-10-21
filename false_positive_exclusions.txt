@@ -1,10 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blipfoto
 CGTrader
 Championat
 Chatujme.cz
@@ -22,6 +22,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -44,6 +45,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
@@ -51,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
