@@ -5,6 +5,7 @@ Archive.org
 Championat
 Chatujme.cz
 Codolio
+Cplusplus
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -13,6 +14,8 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
