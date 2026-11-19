@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -14,7 +13,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -25,6 +26,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
@@ -39,7 +41,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
