@@ -5,12 +5,12 @@ Apple Discussions
 Archive.org
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 Linktree
@@ -18,7 +18,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -32,10 +32,12 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -44,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
